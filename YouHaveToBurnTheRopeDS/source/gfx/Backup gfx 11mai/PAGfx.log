@@ -1,0 +1,26 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+4 sprites :
+  SpriteAnim : 256colors, 32x576, Pal : sprite0_Pal, -> SpriteAnim_Sprite
+  Axe : 256colors, 16x16, Pal : sprite0_Pal, -> Axe_Sprite
+  Fire : 256colors, 32x96, Pal : sprite0_Pal, -> Fire_Sprite
+  Stick : 256colors, 32x8, Pal : sprite0_Pal, -> Stick_Sprite
+
+3 backgrounds :
+  BG0 : LargeMap, 1024x192, Pal : BG0_Pal, 87 tiles -> BG0_Tiles and BG0_Map
+  BGCollision : LargeMap, 1024x192, Pal : BGCollision_Pal, 7 tiles -> BGCollision_Tiles and BGCollision_Map
+  platformcollisionmap3 : LargeMap, 1024x192, Pal : platformcollisionmap3_Pal, 4 tiles -> platformcollisionmap3_Tiles and platformcollisionmap3_Map
+
+4 palettes :
+  sprite0_Pal, 14 colors
+  BG0_Pal, 10 colors
+  BGCollision_Pal, 4 colors
+  platformcollisionmap3_Pal, 4 colors
+
+Converted in 0 minutes 0 seconds
+
+Finished !
